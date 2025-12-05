@@ -119,12 +119,8 @@ const Footer = () => {
         <div className="footer-info">
           <p className="copyright">© 2025 YOLO Coin. All rights reserved. Not financial advice.</p>
           <p className="credits">
-            Made by <a href="https://www.japv.dev/" target="_blank" rel="noopener noreferrer" className="credit-link">JUAN</a>
+            Made by <a href="https://www.pigeon0931.xyz/" target="_blank" rel="noopener noreferrer" className="credit-link">pigeon0931</a>
           </p>
-          <div className="donation">
-            <span>Donations (SOL): </span>
-            <code className="wallet-address">7bqLQ4Kekjifr98DTUTe5Q5JDu984L8ANY5idnjSD3Q5</code>
-          </div>
         </div>
       </div>
     </footer>
